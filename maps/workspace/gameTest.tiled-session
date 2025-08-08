@@ -1,0 +1,133 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "gameTest.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "#Pack_3": {
+            "scaleInDock": 4
+        },
+        "Level_1.tmx": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1372,
+                "y": 301
+            }
+        },
+        "Level_1.tmx#Pack_2": {
+            "scaleInDock": 4
+        },
+        "TestMap.tmx": {
+            "scale": 0.475,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 478.94736842105254,
+                "y": 158.94736842105263
+            }
+        },
+        "TestMap.tmx#Night": {
+            "scaleInDock": 1
+        },
+        "cave.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 20.5,
+                "y": 243.5
+            }
+        },
+        "forest.tmx": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 6.1388,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 480.0612497556526,
+                "y": 240.0306248778263
+            }
+        },
+        "forest.tmx#Pack_3": {
+            "scaleInDock": 4
+        },
+        "gameTest.tmx": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 4.5191,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 565.1567790046691,
+                "y": 94.37719899980085
+            }
+        },
+        "gameTest.tmx#Pack_3": {
+            "scaleInDock": 3.0851,
+            "scaleInEditor": 1
+        },
+        "gameTest.tmx#TestPlace": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "testmap_2.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 187.33333333333334,
+                "y": 208.66666666666666
+            }
+        },
+        "testmap_2.tmx#texture1": {
+            "scaleInDock": 1
+        },
+        "未命名.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 137,
+                "y": 355.66666666666663
+            }
+        }
+    },
+    "last.exportedFilePath": "/Users/mounas/Desktop/MounaEngine/maps/game",
+    "last.imagePath": "/Users/mounas/Desktop/MounaEngine/assets/Texture",
+    "map.height": 80,
+    "map.lastUsedExportFilter": "全部文件 (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 136,
+    "openFiles": [
+        "gameTest.tmx",
+        "forest.tmx"
+    ],
+    "project": "gameTest.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "forest.tmx",
+        "gameTest.tmx",
+        "Level_1.tmx",
+        "cave.tmx",
+        "未命名.tmx",
+        "testmap_2.tmx",
+        "TestMap.tmx"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
